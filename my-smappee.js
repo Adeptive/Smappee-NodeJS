@@ -1,10 +1,13 @@
 var SmappeeAPI = require('./lib/smappee-api');
 
 var smappee = new SmappeeAPI({
-    ip: "0.0.0.0",
     debug: true,
-    username: "admin",
-    password: "admin"
+
+    clientId: "xxx",
+    clientSecret: "xxx",
+
+    username: "xxx",
+    password: "xxx"
 });
 
 module.exports = smappee;
