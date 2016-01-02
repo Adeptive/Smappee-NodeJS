@@ -1,5 +1,6 @@
 # Smappee-NodeJS
 Smappee nodejs project to read smappee data.
+Based on https://smappee.atlassian.net
 
 ## Installation
 ```bash
