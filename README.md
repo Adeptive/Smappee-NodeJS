@@ -1,6 +1,6 @@
 # Smappee-NodeJS
 Smappee nodejs project to read smappee data.
-Based on https://smappee.atlassian.net
+Based on https://support.smappee.com/hc/en-us/articles/202153935-Where-can-I-find-the-API-documentation-
 
 ## Installation
 ```bash
