@@ -17,7 +17,6 @@ router.get('/:device', function(req, res, next) {
 
 /* GET device listing. */
 router.get('/:device/:action', function(req, res, next) {
-
   var device =  req.params.device;
   var action =  req.params.action;
 
