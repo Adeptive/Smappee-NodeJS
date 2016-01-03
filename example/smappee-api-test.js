@@ -1,4 +1,4 @@
-var smappee = require('../my-smappee');
+var smappee = require('./my-smappee');
 var moment = require('moment');
 
 var from = moment().subtract(1, 'year').utc().valueOf();

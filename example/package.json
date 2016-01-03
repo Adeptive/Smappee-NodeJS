@@ -1,0 +1,11 @@
+{
+  "name": "smappee-nodejs-example",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node ./smappee-api-test.js"
+  },
+  "dependencies": {
+    "moment": "^2.10.6",
+    "smappee-nodejs": "git+https://github.com/CONNCTED/Smappee-NodeJS.git"
+  }
+}
