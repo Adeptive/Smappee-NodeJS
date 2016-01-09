@@ -2,6 +2,13 @@
   "name": "smappee-nodejs",
   "version": "0.0.2",
   "main": "./smappee-api.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CONNCTED/Smappee-NodeJS.git"
+  },
+  "bugs": {
+    "url": "http://github.com/CONNCTED/Smappee-NodeJS/issues"
+  },
   "dependencies": {
     "moment": "^2.10.6",
     "request": "^2.67.0"
