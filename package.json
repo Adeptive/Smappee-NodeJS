@@ -1,7 +1,12 @@
 {
   "name": "smappee-nodejs",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "main": "./smappee-api.js",
+  "author": "CONNCTED",
+  "keywords": [
+    "smappee",
+    "energy monitoring"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/CONNCTED/Smappee-NodeJS.git"

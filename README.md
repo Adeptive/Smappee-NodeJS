@@ -1,10 +1,11 @@
 # Smappee-NodeJS
 Smappee nodejs project to read smappee data.
+
 Based on https://support.smappee.com/hc/en-us/articles/202153935-Where-can-I-find-the-API-documentation-
 
 ## Installation
 ```bash
-npm install https://github.com/CONNCTED/Smappee-NodeJS --save
+npm install smappee-nodejs --save
 ```
 
 ## Usage
